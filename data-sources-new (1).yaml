@@ -1,0 +1,66 @@
+version: 1
+file_type: data-source-administration
+name: Datsources
+platform:
+  - all
+data_sources:
+  - data_source_name: AWS CloudTrail logs
+    date_registered: null
+    date_connected: null
+    products: []
+    available_for_data_analytics: false
+    comment: ''
+    data_quality:
+      device_completeness: 0
+      data_field_completeness: 0
+      timeliness: 0
+      consistency: 0
+      retention: 0
+  - data_source_name: Anti-virus
+    date_registered: null
+    date_connected: null
+    products: []
+    available_for_data_analytics: false
+    comment: ''
+    data_quality:
+      device_completeness: 0
+      data_field_completeness: 0
+      timeliness: 0
+      consistency: 0
+      retention: 0
+  - data_source_name: Web proxy
+    date_registered: null
+    date_connected: null
+    products: []
+    available_for_data_analytics: false
+    comment: ''
+    data_quality:
+      device_completeness: 0
+      data_field_completeness: 0
+      timeliness: 0
+      consistency: 0
+      retention: 0
+  - data_source_name: Authentication logs
+    date_registered: null
+    date_connected: null
+    products: []
+    available_for_data_analytics: false
+    comment: ''
+    data_quality:
+      device_completeness: 0
+      data_field_completeness: 0
+      timeliness: 0
+      consistency: 0
+      retention: 0
+  - data_source_name: Network device logs
+    date_registered: null
+    date_connected: null
+    products: []
+    available_for_data_analytics: false
+    comment: ''
+    data_quality:
+      device_completeness: 0
+      data_field_completeness: 0
+      timeliness: 0
+      consistency: 0
+      retention: 0
